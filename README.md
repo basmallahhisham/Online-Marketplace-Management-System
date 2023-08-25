@@ -1,5 +1,5 @@
 # Online-Market
-An Online Shopping Store System shows the available products for the shoppers to buy with a valid credit card.<br>
+An Online Shopping Store System shows the available products, added by the sellers, for the shoppers to buy with a valid credit card.<br>
 By Appling Data Structures Concepts.
 ### Main Functionalities
 - Login, Registration
@@ -10,3 +10,4 @@ By Appling Data Structures Concepts.
 - Add items in shopping cart.
 - Allow shopper to add or remove any item to/from the cart.
 - Creating Receipt.
+- Shoppers can rate the items.
