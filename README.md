@@ -1,7 +1,7 @@
 # Online-Market
 Is an e-commerce platform that links sellers with customers.<br>
 This Online Shopping Store System shows the available products, added by the sellers, for the customers to buy with a valid credit card.<br>
-By Appling Data Structures Concepts. <br><br>
+By Appling Data Structures Concepts. <br>
 ### Description:
 The user chooses either he wants to sell or buy a product and then complete the process as a seller or customer.
 The seller can offer products.
